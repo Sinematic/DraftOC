@@ -1,6 +1,25 @@
-total 8
-drwxr-xr-x 1 glyni 197609 0 Feb 21 14:20 ./
-drwxr-xr-x 1 glyni 197609 0 Feb 21 12:08 ../
-drwxr-xr-x 1 glyni 197609 0 Feb 21 14:20 .git/
--rw-r--r-- 1 glyni 197609 0 Feb 21 12:10 README.md
--rw-r--r-- 1 glyni 197609 0 Feb 21 14:21 log.txt
+commit 2e9473a7d06fb65008480b1ac5b47ff9ba163cf9
+Merge: b9e88ab ca1caa7
+Author: Maxime <maxime.rache@gmail.com>
+Date:   Tue Feb 21 15:07:59 2023 +0100
+
+    Merge remote-tracking branch 'origin/master'
+    "Nettoyage des branches inutiles"
+
+commit b9e88ab9bbe24660dfa9bcff9e111ed4e9d63327
+Author: Maxime <maxime.rache@gmail.com>
+Date:   Tue Feb 21 14:21:32 2023 +0100
+
+    correction du message
+
+commit ca1caa7a44c6851c8682f6c7ba5d590de48d1ceb
+Author: Maxime <maxime.rache@gmail.com>
+Date:   Tue Feb 21 14:21:32 2023 +0100
+
+    Ajout du fichier log.txt
+
+commit 7af8c699ee013de41ecbefd75288bade1e0fa34d
+Author: Maxime <maxime.rache@gmail.com>
+Date:   Tue Feb 21 12:10:46 2023 +0100
+
+    README.md ajouté
